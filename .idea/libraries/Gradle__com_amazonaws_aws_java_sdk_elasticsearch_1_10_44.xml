@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-elasticsearch:1.10.44">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticsearch/1.10.44/a8675dc0490d5e1934f2def4ef17dc86d6a46060/aws-java-sdk-elasticsearch-1.10.44.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticsearch/1.10.44/8c1af5dacffb5261e0e2813ea52b9ac65b83d5d9/aws-java-sdk-elasticsearch-1.10.44-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

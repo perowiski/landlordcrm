@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tolet.utils.UtilityTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-04-11T14:37:31" hostname="tolet" time="0.661">
+  <properties/>
+  <testcase name="testPrepareFile" classname="com.tolet.utils.UtilityTest" time="0.005"/>
+  <testcase name="testGetParam" classname="com.tolet.utils.UtilityTest" time="0.001"/>
+  <testcase name="testUpdateModel" classname="com.tolet.utils.UtilityTest" time="0.633"/>
+  <testcase name="testGetRequestParams" classname="com.tolet.utils.UtilityTest" time="0.0"/>
+  <testcase name="testPrepareStringForCheck" classname="com.tolet.utils.UtilityTest" time="0.002"/>
+  <testcase name="testGenerateProfileImageUrl" classname="com.tolet.utils.UtilityTest" time="0.0"/>
+  <testcase name="testGetFileExtension" classname="com.tolet.utils.UtilityTest" time="0.0"/>
+  <testcase name="testSaveClientRequest" classname="com.tolet.utils.UtilityTest" time="0.0"/>
+  <testcase name="testDivide" classname="com.tolet.utils.UtilityTest" time="0.001"/>
+  <testcase name="testErrors" classname="com.tolet.utils.UtilityTest" time="0.001"/>
+  <testcase name="testGetValidDateForSearch" classname="com.tolet.utils.UtilityTest" time="0.001"/>
+  <system-out><![CDATA[Running testPrepareStringForCheck() method
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
